@@ -22,7 +22,7 @@ I'm currently diving deeper into:
 
 ---
 
-🎯 Goals for This Year
+##🎯 Goals for This Year
 - Learn the basics of programming using python
 - Get comfortable to using git and git hub for version control 
 - Improve my problem-solving skills on LeetCode
